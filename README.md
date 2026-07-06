@@ -89,3 +89,7 @@ Recomendações personalizadas de estudo
 Gabriela de Oliveira Silva
 
 Projeto desenvolvido como trabalho final do curso Programação em Inteligência Artificial Generativa do SENAI "Oscar Rodrigues Alves".
+
+Exemplos no VS Code:
+
+![conceito explicado e retorno](quiz.png)
