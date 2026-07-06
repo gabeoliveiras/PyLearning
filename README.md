@@ -92,4 +92,5 @@ Projeto desenvolvido como trabalho final do curso Programação em Inteligência
 
 Exemplos no VS Code:
 
-![conceito explicado e retorno](quiz.png)
+![quiz](quiz.png)
+![dúvidas](tirar%dúvidas%palavra-chave.png)
